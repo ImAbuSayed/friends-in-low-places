@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/friends-in-low-places/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Friends in Low Places](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/friends-in-low-places/) |
+| **Get License** | [Music Rights & Licensing for Friends in Low Places](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/friends-in-low-places/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2bb893c4b229898b1acb0a3a0f32e41bafa1838ec741fa374dabaf18f2440e9e` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
