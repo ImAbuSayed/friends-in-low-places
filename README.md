@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/friends-in-low-places/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Friends in Low Places](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/friends-in-low-places/) |
+| **Get License** | [Commercial Licensing for Friends in Low Places](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/friends-in-low-places/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I got the headlights cutting through the dark
+> And your fingers tracing fires on my heart
+> We are leaving the city and the noise behind
+> Tonight you are the only thing on my mind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
